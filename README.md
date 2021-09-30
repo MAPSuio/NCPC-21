@@ -16,7 +16,7 @@ Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i 
 
 
 ### Du nevnte Kattis.. jeg har hørt om Kattis!
-Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/problems/carrots), og derfor vil oppgavetekstene, samt input/output-eksemplene være svært like. Hvis du ikke har noe kjennskap til Kattis, vil vi på det varmeste anbefale deg å sjekke det ut før du møter opp på lørdag :)
+Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/problems/carrots), og derfor vil oppgavetekstene, samt input/output-eksemplene være svært like som på Kattis. Hvis du ikke har noe kjennskap til Kattis, vil vi på det varmeste anbefale deg å sjekke det ut før du møter opp på lørdag :)
 
 
 ### Får vinneren bonger på Escape?
