@@ -22,7 +22,7 @@ Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/prob
 ### Får vinneren bonger på Escape?
 Det beste studentlaget fra UiO får muligheten til å dra til NWERC i Reykjavik. Derfra er det også mulig å kvalifisere seg til VM i programmering!!
 
-De som synes at bonger er en bedre premie, kan glede seg til neste Pils & påfyll ;)
+De som synes at bonger er en bedre premie, kan glede seg til neste Prog & påfyll ;)
 
 <br>
 
