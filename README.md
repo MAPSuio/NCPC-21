@@ -18,13 +18,13 @@ Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i 
 ### Du nevnte Kattis.. jeg har hørt om Kattis!
 Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/problems/carrots), og derfor vil oppgavetekstene, samt input/output-eksemplene være svært like. Hvis du ikke har noe kjennskap til Kattis, vil vi på det varmeste anbefale deg å sjekke det ut før du møter opp på lørdag :)
 
-<br>
 
 ### Får vinneren bonger på Escape?
 Det beste studentlaget fra UiO får muligheten til å dra til NWERC i Reykjavik. Derfra er det også mulig å kvalifisere seg til VM i programmering!!
 
 De som synes at bonger er en bedre premie, kan glede seg til neste Pils & påfyll ;)
 
+<br>
 
 ### Hvorfor skal jeg orke å dra til IFI på en lørdag, når det uansett er digitalt?
 Vi har søkt om støtte til pizza! Selv om det ofte er god nok grunn alene, har vi også forespurt litt premiering til de som møter opp. Flere av oss i MAPS vil stille opp og (prøve å) bidra til at alle har det hyggelig, og at alle får til å komme i gang.
