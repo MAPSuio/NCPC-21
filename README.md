@@ -20,7 +20,7 @@ Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/prob
 
 
 ### Får vinneren bonger på Escape?
-Hvis man går til topps får man æren av å kalle seg nordisk mester i programmering! Vi skal også undersøke hvorvidt det beste studentlaget fra UiO får muligheten til å dra til NWERC i Reykjavik. Derfra vil det også være mulig å kvalifisere seg til **VM** i programmering!!
+Hvis man går til topps får man æren av å kalle seg nordisk mester i programmering!!
 
 De som synes at bonger er en bedre premie, kan glede seg til neste Prog & påfyll ;)
 
