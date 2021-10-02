@@ -35,11 +35,11 @@ Selvsagt! Man kan registrere lag opp til 3 personer.
 
 
 ### Jeg har hørt nok! Hvor kan jeg registrere meg??
-[Her](https://icpc.global/regionals/finder/Nordic-2021)!!
+[Her!](https://icpc.global/regionals/finder/Nordic-2021)
 Fristen for å registrere seg er 6. oktober 23:59! Dette er kanskje årets viktigste oblig.
 
 <br>
 
 ### Interessert i å vite mer?
-- [Generell informasjon](http://nordic.icpc.io/ncpc2021/).
-- [Slik gikk det i Bergen i 2018](https://www.uib.no/ii/121135/glade-bergensstudenter-m%C3%B8tte-tallsterke-opp-p%C3%A5-ncpc).
+- [Generell informasjon](http://nordic.icpc.io/ncpc2021/)
+- [Slik gikk det i Bergen i 2018](https://www.uib.no/ii/121135/glade-bergensstudenter-m%C3%B8tte-tallsterke-opp-p%C3%A5-ncpc)
