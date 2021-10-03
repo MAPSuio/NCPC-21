@@ -9,10 +9,12 @@ Lørdag 9. oktober 2021, fra 10:00 til 17:00.
 ### Hvor?
 Datarom Assembler, 3. etg i Ole Johan Dahls hus, Gaustadalléen 23b.
 
+Det er også mulig å delta remote.
+
 <br>
 
 ### Hva er det egentlig som skjer?
-Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i programmering](https://nordic.icpc.io/). Dette er konkurransen for deg som enten liker å løse oppgaver med programmering! Kanskje du har besøkt nettsider som [Codewars](https://www.codewars.com/) og [Kattis](https://open.kattis.com/), og fått sansen for den typen mestringsfølelse? Kanskje du var på [Prog & påfyll](https://www.facebook.com/events/404177087717380), og ikke fikk nok? Da er dette en perfekt mulighet til å _virkelig_ vise hva du er god for!
+Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i programmering](https://nordic.icpc.io/). Dette er konkurransen for deg som enten liker å løse oppgaver med programmering! Kanskje du har besøkt nettsider som [Codewars](https://www.codewars.com/) og [Kattis](https://open.kattis.com/), og fått sansen for å løse programmeringsoppgaver? Kanskje du var på [Prog & påfyll](https://www.facebook.com/events/404177087717380), og ikke fikk nok? Da er dette en perfekt mulighet til å _virkelig_ vise hva du er god for!
 
 
 ### Du nevnte Kattis.. jeg har hørt om Kattis!
@@ -27,11 +29,11 @@ De som synes at bonger er en bedre premie, kan glede seg til neste Prog & påfyl
 <br>
 
 ### Hvorfor skal jeg orke å dra til IFI på en lørdag, når det uansett er digitalt?
-Vi har søkt om støtte til pizza! Selv om det ofte er god nok grunn alene, har vi også forespurt litt premiering til de som møter opp. Flere av oss i MAPS vil stille opp og (prøve å) bidra til at alle har det hyggelig, og at alle får til å komme i gang.
+Det blir hyggelig, og kanskje møter du noen du ikke kjenner fra før. Vi har også søkt instituttet om penger til pizza og premiering, men vi var litt seint ute, så vi får se om det blir noe av.
 
 
-### Kan jeg ta med noen venner?
-Selvsagt! Man kan registrere lag opp til 3 personer.
+### Er det noe jeg bør ta med?
+Det kan være lurt å ta med seg noe å programmere på, noe å spise og drikke underveis, og opp til 2 venner å være på lag med.
 
 
 ### Jeg har hørt nok! Hvor kan jeg registrere meg??
