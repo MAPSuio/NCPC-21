@@ -1,5 +1,5 @@
 # Nordisk mesterskap i programmering
-Nok et nordisk mestarskap i programmering skal gå av stabelen, og denne gangen har vi gleden av å invitere til fysisk oppmøte! Selve konkurransen vil foregå digitalt, mens vi vil gi folk en mulighet til å ha det sosialt og hyggelig før, underveis, og etter konkurransen :)
+Nok et nordisk mesterskap i programmering skal gå av stabelen, og denne gangen har vi gleden av å invitere til fysisk oppmøte! Selve konkurransen vil foregå digitalt, mens vi vil gi folk en mulighet til å ha det sosialt og hyggelig før, underveis, og etter konkurransen :)
 
 ## Når?
 Lørdag 9. oktober 2021, fra 10:00 til 17:00.
