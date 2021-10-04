@@ -10,7 +10,7 @@ Datarom Assembler, 3. etg i Ole Johan Dahls hus, Gaustadalléen 23b.
 Det er også mulig å delta remote.
 
 ### Hva er det egentlig som skjer?
-Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i programmering](https://nordic.icpc.io/). Dette er konkurransen for deg som enten liker å løse oppgaver med programmering! Kanskje du har besøkt nettsider som [Codewars](https://www.codewars.com/) og [Kattis](https://open.kattis.com/), og fått sansen for å løse programmeringsoppgaver? Kanskje du var på [Prog & påfyll](https://www.facebook.com/events/404177087717380), og ikke fikk nok? Da er dette en perfekt mulighet til å _virkelig_ vise hva du er god for!
+Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i programmering](https://nordic.icpc.io/). Dette er konkurransen for deg som liker å løse oppgaver med programmering! Kanskje du har besøkt nettsider som [Codewars](https://www.codewars.com/) og [Kattis](https://open.kattis.com/), og fått sansen for å løse programmeringsoppgaver? Kanskje du var på [Prog & påfyll](https://www.facebook.com/events/404177087717380), og ikke fikk nok? Da er dette en perfekt mulighet til å _virkelig_ vise hva du er god for!
 
 ### Du nevnte Kattis... jeg har hørt om Kattis!
 Bra! NCPC bruker nemlig dommersystemet til [Kattis](https://open.kattis.com/problems/carrots), og derfor vil oppgavetekstene, samt input/output-eksemplene være svært like som på Kattis. Hvis du ikke har noe kjennskap til Kattis, vil vi på det varmeste anbefale deg å sjekke det ut før du møter opp på lørdag :)
