@@ -21,7 +21,7 @@ Hvis man går til topps får man æren av å kalle seg nordisk mester i programm
 De som synes at bonger er en bedre premie, kan glede seg til neste Prog & påfyll ;)
 
 ### Hvorfor skal jeg orke å dra til IFI på en lørdag, når det uansett er digitalt?
-Det blir hyggelig, og kanskje møter du noen du ikke kjenner fra før. Vi har fått midler til pizza og annet gøy av instituttet!
+Det blir hyggelig, og kanskje møter du noen du ikke kjenner fra før. Vi har også fått midler til pizza og annet gøy av instituttet!
 
 ### Er det noe jeg bør ta med?
 Det kan være lurt å ta med seg noe å programmere på, noe å spise og drikke underveis, og opp til 2 venner å være på lag med.
