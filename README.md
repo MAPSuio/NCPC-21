@@ -5,9 +5,9 @@ Nok et nordisk mesterskap i programmering skal gå av stabelen, og denne gangen 
 Lørdag 9. oktober 2021, fra 10:00 til 17:00.
 
 ## Hvor?
-Datarom Assembler, 3. etg i Ole Johan Dahls hus, Gaustadalléen 23b.
+Datarom Assembler, 3. etg i Ole Johan Dahls hus, Gaustadalléen 23b. Det er også mulig å delta remote.
 
-Det er også mulig å delta remote.
+Selve konkurransen kan følges [her](https://ncpc21.kattis.com/).
 
 ### Hva er det egentlig som skjer?
 Nordic Collegiate Programming Contest (NCPC) arrangerer [nordisk mesterskapet i programmering](https://nordic.icpc.io/). Dette er konkurransen for deg som liker å løse oppgaver med programmering! Kanskje du har besøkt nettsider som [Codewars](https://www.codewars.com/) og [Kattis](https://open.kattis.com/), og fått sansen for å løse programmeringsoppgaver? Kanskje du var på [Prog & påfyll](https://www.facebook.com/events/404177087717380), og ikke fikk nok? Da er dette en perfekt mulighet til å _virkelig_ vise hva du er god for!
